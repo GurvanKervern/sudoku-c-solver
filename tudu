@@ -5,7 +5,7 @@
 		<title>Create objects</title>
 		<text>
 </text>
-		<todo done="no" collapse="no">
+		<todo done="yes" collapse="no">
 			<title>Cell</title>
 			<text>
 </text>
@@ -69,6 +69,21 @@
 			<title>Check potential number list length</title>
 			<text>
 </text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="no">
+		<title>Add features</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Allow to choose the sudoku number</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>fgets * number * 10</title>
+				<text>
+</text>
+			</todo>
 		</todo>
 	</todo>
 </todo>
