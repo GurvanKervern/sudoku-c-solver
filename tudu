@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE tudu SYSTEM "/usr/share/tudu/tudu.dtd">
+<todo>
+	<todo done="no" collapse="no">
+		<title>Create objects</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Cell</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Line</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Column</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Square</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Grid</title>
+			<text>
+</text>
+		</todo>
+	</todo>
+	<todo done="no" collapse="no">
+		<title>Create functions</title>
+		<text>
+</text>
+		<todo done="no" collapse="no">
+			<title>Remove number from</title>
+			<text>
+</text>
+			<todo done="no" collapse="no">
+				<title>Cell</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Line</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Column</title>
+				<text>
+</text>
+			</todo>
+			<todo done="no" collapse="no">
+				<title>Grid</title>
+				<text>
+</text>
+			</todo>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Print grid</title>
+			<text>
+</text>
+		</todo>
+		<todo done="no" collapse="no">
+			<title>Check potential number list length</title>
+			<text>
+</text>
+		</todo>
+	</todo>
+</todo>

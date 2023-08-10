@@ -1,0 +1,2 @@
+(A) make a reader function for the ones I have now
+(B) make a printer function to print a grid (with or without grid, or space)
